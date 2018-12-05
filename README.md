@@ -1,0 +1,1 @@
+# Sparta_Global_Capybara_Commerce_POM
